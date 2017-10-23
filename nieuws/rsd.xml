@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsd xmlns="http://archipelago.phrasewise.com/rsd"><service><engineName>Squarespace</engineName><engineLink>http://five.squarespace.com</engineLink><homePageLink>http://www.un-do.be/</homePageLink><apis><api name="MetaWeblog" preferred="true" apiLink="http://five.squarespace.com/process/service/PostInterceptor" blogID="11554343"/></apis></service></rsd>
