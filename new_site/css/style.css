@@ -48,14 +48,28 @@ p, li{
 
 }
 
+#rodebiet2{
+  margin-top: -270px;
+    left: -120px;
+}
+
+#rodebiet2 svg{
+  height:800px;
+  transform:rotate(25deg);
+}
+
+#rodebiet2 svg path{
+  fill:#7F2A49;
+}
+
 #look{
   margin-top:-100px;
-  left:-80px;
+  left:-70px;
 }
 
 #look svg{
   height:600px;
-  transform:rotate(-40deg);
+  transform:rotate(-15deg);
 }
 
 #look svg path{
@@ -64,7 +78,7 @@ p, li{
 
 #look2{
   margin-top:-220px;
-  left:-60px;
+  left:-80px;
 }
 
 #look2 svg{
@@ -92,7 +106,7 @@ p, li{
 
 
 #wortel{
-  margin-top:-220px;
+  margin-top:-280px;
   left:-80px;
 }
 
@@ -120,8 +134,8 @@ p, li{
 }
 
 #rodebiet{
-  margin-top:-200px;
-  right:0;
+  margin-top: -270px;
+    right: 100px;
 }
 
 #rodebiet svg{
@@ -200,4 +214,10 @@ p, li{
 
 #walnoot svg path,#walnoot2 svg path, #walnoot3 svg path, #walnoot4 svg path, #walnoot5 svg path{
   fill:#564927;
+}
+
+@media (max-width: 768px) {
+  .veggie{
+    display:none;
+  }
 }
