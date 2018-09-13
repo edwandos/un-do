@@ -1,0 +1,226 @@
+body{
+  background-color:black;
+  color:white;
+  font-family:'Lucida Sans Unicode', 'Lucida Grande', Tahoma, sans-serif;
+}
+
+p a{
+  color:white;
+  text-decoration:underline;
+}
+
+a:hover{
+  color:white;
+}
+
+p, li{
+  font-size:14px;
+  color:#D0C5C5;
+}
+
+.privacy{
+    font-size:12px;
+    font-style:italic;
+}
+
+.navbar{
+  border-bottom:1px solid #2C2C2C;
+}
+
+.navbar-brand{
+
+  font-size:27px;
+  color:#D0C5C5 !important;
+  padding: 0 5px 0 5px;
+  border: solid 2px #D0C5C5;
+}
+
+.bg-dark{
+  background-color:black !important;
+  color:white !important;
+}
+
+@media (min-width: 1200px){
+  .container {
+      max-width: 800px;
+  }
+}
+
+.veggie{
+  position:absolute;
+
+}
+
+#rodebiet2{
+  margin-top: -270px;
+    left: -120px;
+}
+
+#rodebiet2 svg{
+  height:800px;
+  transform:rotate(25deg);
+}
+
+#rodebiet2 svg path{
+  fill:#7F2A49;
+}
+
+#look{
+  margin-top:-100px;
+  left:-70px;
+}
+
+#look svg{
+  height:600px;
+  transform:rotate(-15deg);
+}
+
+#look svg path{
+  fill:darkseagreen;
+}
+
+#look2{
+  margin-top:-220px;
+  left:-80px;
+}
+
+#look2 svg{
+  height:600px;
+  transform:rotate(-30deg);
+}
+
+#look2 svg path{
+  fill:darkseagreen;
+}
+
+#look3{
+  margin-top: -50px;
+    left: -90px;
+}
+
+#look3 svg{
+  height:600px;
+  transform:rotate(10deg);
+}
+
+#look3 svg path{
+  fill:darkseagreen;
+}
+
+
+#wortel{
+  margin-top:-280px;
+  left:-80px;
+}
+
+#wortel svg{
+  height:700px;
+  transform:rotate(-25deg);
+}
+
+#wortel svg path{
+  fill:bisque;
+}
+
+#wortels{
+  margin-top: -150px;
+  right:-50px;
+}
+
+#wortels svg{
+  height:700px;
+  transform:rotate(-25deg);
+}
+
+#wortels svg path{
+  fill:orange;
+}
+
+#rodebiet{
+  margin-top: -270px;
+    right: 100px;
+}
+
+#rodebiet svg{
+  height:800px;
+  transform:rotate(-25deg);
+}
+
+#rodebiet svg path{
+  fill:#7F2A49;
+}
+
+#citroen{
+  margin-top: -300px;
+  left: -50px;
+}
+
+#citroen svg{
+  height:500px;
+  transform:rotate(-25deg);
+}
+
+#citroen svg path{
+  fill:#fff44f;
+}
+
+#walnoot{
+
+      margin-top: -90px;
+    right: 280px;
+}
+
+#walnoot svg{
+  height:300px;
+  transform:rotate(-25deg);
+}
+
+#walnoot2{
+  margin-top: -90px;
+  right: 200px;
+}
+
+#walnoot2 svg{
+  height:300px;
+  transform:rotate(-25deg);
+}
+
+#walnoot3{
+  margin-top: -150px;
+  right: 250px;
+}
+
+#walnoot3 svg{
+  height:300px;
+  transform:rotate(-25deg);
+}
+
+#walnoot4{
+  margin-top: -90px;
+  right: 300px;
+}
+
+#walnoot4 svg{
+  height:300px;
+  transform:rotate(-25deg);
+}
+
+#walnoot5{
+  margin-top: -90px;
+  right: 200px;
+}
+
+#walnoot5 svg{
+  height:300px;
+  transform:rotate(-25deg);
+}
+
+#walnoot svg path,#walnoot2 svg path, #walnoot3 svg path, #walnoot4 svg path, #walnoot5 svg path{
+  fill:#564927;
+}
+
+@media (max-width: 768px) {
+  .veggie{
+    display:none;
+  }
+}

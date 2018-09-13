@@ -1,0 +1,767 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+  
+  <!-- un-do -->
+
+  <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="http://www.un-do.be/display/common.css?styleId=1104371&amp;RK=1313264212237&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="../universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+    <link rel="alternate" type="application/atom+xml" title="ATOM" href="http://www.un-do.be/nieuws/atom.xml" />
+  
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml" />
+  
+    <link rel="alternate" type="application/rdf+xml" title="RDF" href="rdf.xml" />
+  
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="rsd.xml" />
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="../universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="http://www.un-do.be/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="../universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="http://www.un-do.be/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="../universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="http://www.un-do.be/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="../universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="http://www.un-do.be/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="http://www.un-do.be/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="../universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="http://www.un-do.be/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="http://www.un-do.be/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="http://www.un-do.be/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "UN . DO"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "11554343"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://five.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "829606";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title> - nieuws</title>
+    <meta property="og:title" content=" - nieuws" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="http://www.un-do.be/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="../universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage11554343"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2Fnieuws%2F%3FcurrentPage%3D2"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent4070862" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper11554343">
+
+    <div id="navigationTop-moduleContent11554343">
+
+              <a id="navigationTop-moduleLink11554343" class=" " href="../index.html" ><span>nieuws</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper11554406">
+
+    <div id="navigationTop-moduleContent11554406">
+
+              <a id="navigationTop-moduleLink11554406" class=" " href="http://www.un-do.be/agendamain/" ><span>Agenda</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper9746278">
+
+    <div id="navigationTop-moduleContent9746278">
+
+              <a id="navigationTop-moduleLink9746278" class=" " href="../gezonde-voeding/index.html" ><span>un . do food</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper9757210">
+
+    <div id="navigationTop-moduleContent9757210">
+
+              <a id="navigationTop-moduleLink9757210" class=" " href="../undo-locatie/index.html" ><span>un . do locatie</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper9746359">
+
+    <div id="navigationTop-moduleContent9746359">
+
+              <a id="navigationTop-moduleLink9746359" class=" " href="http://www.un-do.be/contact/" ><span>contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="../index.html">UN . DO</a></h1>
+          
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent4070862" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper11554343">
+
+    <div id="navigationBottom-moduleContent11554343">
+
+              <a id="navigationBottom-moduleLink11554343" class=" " href="../index.html" ><span>nieuws</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper11554406">
+
+    <div id="navigationBottom-moduleContent11554406">
+
+              <a id="navigationBottom-moduleLink11554406" class=" " href="http://www.un-do.be/agendamain/" ><span>Agenda</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper9746278">
+
+    <div id="navigationBottom-moduleContent9746278">
+
+              <a id="navigationBottom-moduleLink9746278" class=" " href="../gezonde-voeding/index.html" ><span>un . do food</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper9757210">
+
+    <div id="navigationBottom-moduleContent9757210">
+
+              <a id="navigationBottom-moduleLink9757210" class=" " href="../undo-locatie/index.html" ><span>un . do locatie</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper9746359">
+
+    <div id="navigationBottom-moduleContent9746359">
+
+              <a id="navigationBottom-moduleLink9746359" class=" " href="http://www.un-do.be/contact/" ><span>contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent4070862" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper11554343">
+
+    <div id="moduleContent11554343">
+
+              <a id="moduleLink11554343" class=" " href="../index.html" ><span>nieuws</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper11554406">
+
+    <div id="moduleContent11554406">
+
+              <a id="moduleLink11554406" class=" " href="http://www.un-do.be/agendamain/" ><span>Agenda</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper9746278">
+
+    <div id="moduleContent9746278">
+
+              <a id="moduleLink9746278" class=" " href="../gezonde-voeding/index.html" ><span>un . do food</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper9757210">
+
+    <div id="moduleContent9757210">
+
+              <a id="moduleLink9757210" class=" " href="../undo-locatie/index.html" ><span>un . do locatie</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper9746359">
+
+    <div id="moduleContent9746359">
+
+              <a id="moduleLink9746359" class=" " href="http://www.un-do.be/contact/" ><span>contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+
+  
+
+  
+    
+
+  
+  
+  <div class="list-journal-entry-wrapper">
+
+          
+
+
+<div class="journal-entry-wrapper post-text authored-by-un-do ">
+<div id="item14378229" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Friday</span></div><div class="journal-entry-float-date"><span class="month">Dec</span><span class="date">30</span><span class="year">2011</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="http://www.un-do.be/nieuws/2011/12/30/eerste-kookles-in-2012-daikon-ideaal-na-de-feestdagen.html">EERSTE KOOKLES IN 2012 : DAIKON IDEAAL NA DE&nbsp;FEESTDAGEN</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <ul>
+<h3><strong><span>&nbsp;Koken met DAIKON ! De groenten om af te slanken &eacute;n ideaal na de feestdagen &nbsp; &nbsp; &nbsp; &nbsp;</span></strong><strong>Donderdag 19. 01. 12 om 19u (demonstratie kookles) 38 euro</strong></h3>
+</ul>
+<p><img src="http://t3.gstatic.com/images?q=tbn:ANd9GcTiimTZmcuUCi69mNg3ao4nyk-_tqaphBSNFm6tp5aih2kcxLQEnw" alt="" />&nbsp;</p>
+<p>Daikon is een witte rammenas met bijzondere waterafvoerende en vetafvoerende eigenschappen. Zowel rauw als bereid is hij heerlijk van smaak &eacute;n bovendien een groenten die dagelijks mag gegeten worden. Verschillende bereidingswijzen en gerechtjes worden op tafel getoverd. Gaande van een verfijnde carpaccio tot een puur stoofpotje.</p>
+<p>Don 19. 01. 12 om 19u (demonstratie kookles) 38 euro</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fnieuws%2F2011%2F12%2F30%2Feerste-kookles-in-2012-daikon-ideaal-na-de-feestdagen.html','EERSTE%20KOOKLES%20IN%202012%20%3A%20DAIKON%20IDEAAL%20NA%20DE%20FEESTDAGEN');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Share on Facebook </a></span> |  <span class="email-item"><a href="recommend/14378229"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Email Article </a></span> |  <span class="posted-on">Posted on   <img title="Date" alt="Date" class="inline-icon date-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Friday, December 30, 2011 at 02:46AM</span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-un-do ">
+<div id="item12842506" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Wednesday</span></div><div class="journal-entry-float-date"><span class="month">Sep</span><span class="date">14</span><span class="year">2011</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="http://www.un-do.be/nieuws/2011/9/14/unieke-kookles-in-authentiek-kader-bij-kook-klasse.html">Unieke kookles in authentiek kader bij KOOK KLASSE&nbsp;</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p><span class="full-image-block ssNonEditable"><span><img style="width: 750px;" src="http://www.un-do.be/storage/open%20les%20kookklasse%20vegetarisch.jpg?__SQUARESPACE_CACHEVERSION=1316012171992" alt="" /></span></span></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fnieuws%2F2011%2F9%2F14%2Funieke-kookles-in-authentiek-kader-bij-kook-klasse.html','Unieke%20kookles%20in%20authentiek%20kader%20bij%20KOOK%20KLASSE%20');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Share on Facebook </a></span> |  <span class="email-item"><a href="recommend/12842506"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Email Article </a></span> |  <span class="posted-on">Posted on   <img title="Date" alt="Date" class="inline-icon date-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Wednesday, September 14, 2011 at 10:54AM</span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-un-do ">
+<div id="item12828444" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Tuesday</span></div><div class="journal-entry-float-date"><span class="month">Sep</span><span class="date">13</span><span class="year">2011</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="http://www.un-do.be/nieuws/2011/9/13/gezonde-appeltaart-op-nummer-1.html">GEZONDE APPELTAART OP NUMMER&nbsp;1</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p>De heerlijke appeltaart met rijsstroop, vanille, griesmeel, amandelpasta ... was de nummer 1 op het vegetarisch buffet voor Kunst en Zwalm vorige zaterdag en zondag.</p>
+<p>In de gezonde&nbsp;<a href="../agenda-zwalm/index.html">desserten kookles</a> op 13 oktober leer je deze bereiden ! Schrijf je tijdig in !&nbsp;</p>
+<p><br /><span class="full-image-block ssNonEditable"><span><img src="http://www.un-do.be/storage/webveggiebuffet%20005.jpg?__SQUARESPACE_CACHEVERSION=1315907786894" alt="" /></span></span></p>
+<p>&nbsp;</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fnieuws%2F2011%2F9%2F13%2Fgezonde-appeltaart-op-nummer-1.html','GEZONDE%20APPELTAART%20OP%20NUMMER%201');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Share on Facebook </a></span> |  <span class="email-item"><a href="recommend/12828444"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Email Article </a></span> |  <span class="posted-on">Posted on   <img title="Date" alt="Date" class="inline-icon date-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Tuesday, September 13, 2011 at 05:55AM</span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-un-do ">
+<div id="item12506569" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Saturday</span></div><div class="journal-entry-float-date"><span class="month">Aug</span><span class="date">13</span><span class="year">2011</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="http://www.un-do.be/nieuws/2011/8/13/kunst-en-zwalm-lunch-op-3-4-10-en-11-september-bij-un-do.html">&quot;KUNST EN ZWALM&quot; LUNCH op 3, 4, 10 en 11 september  bij UN . DO&nbsp;</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p>&nbsp;</p>
+<p><span style="font-size: 130%;">UITZONDERLIJK voor KUNST EN ZWALM &nbsp;</span></p>
+<p><span style="font-size: 120%;">cre&euml;ren wij een verrassend vegetarisch buffet !</span></p>
+<ul>
+<li><span style="font-size: 120%;"> 25 euro pp excl dranken</span></li>
+<li><span style="font-size: 120%;"> op 3 + 4 septemeber &eacute;n op 10 + 11 september</span></li>
+<li><span style="font-size: 120%;"> open van 12u tot 14u30</span></li>
+<li><span style="font-size: 120%;"> reserveren : 0478 20 43 88 : Lien</span></li>
+</ul>
+<p><span style="white-space: pre;"><span style="white-space: pre;"> </span>V</span>an harte welkom !</p>
+<p><a href="http://www.kunst-en-zwalm.be/">www.kunst-en-zwalm.be</a></p>
+<p><img src="http://www.kunst-en-zwalm.be/KZimages/2011/KZ-advertentieWeb.jpg" alt="" /></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fnieuws%2F2011%2F8%2F13%2Fkunst-en-zwalm-lunch-op-3-4-10-en-11-september-bij-un-do.html','%22KUNST%20EN%20ZWALM%22%20LUNCH%20op%203%2C%204%2C%2010%20en%2011%20september%20%20bij%20UN%20.%20DO%20');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Share on Facebook </a></span> |  <span class="email-item"><a href="http://www.un-do.be/nieuws/recommend/12506569"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Email Article </a></span> |  <span class="posted-on">Posted on   <img title="Date" alt="Date" class="inline-icon date-icon" rel="smalllight" src="http://www.un-do.be/universal/images/transparent.png" />Saturday, August 13, 2011 at 05:17PM</span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+    
+    
+  </div>
+
+  
+  <div  class="paginationControlWrapper journal-navigation" >
+
+    <!-- 6 - 9 of 9 (page 2 of 2) -->
+
+    <span class="paginationControlPrefix">
+      
+              Page
+       
+    </span>
+    
+    
+
+    
+              <a class="paginationPageNumber"  href="http://www.un-do.be/nieuws/" >1</a>
+      
+    
+              <a class="paginationPageNumber activePage" href="javascript:noop();">2</a>
+      
+     
+
+    
+
+    
+    
+    
+
+  </div>
+
+
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              Un . Do | Veldstraat 4 | 9630 Zwalm | <a href="mailto:do@un-do.be">do@un-do.be</a> | +32 (0) 478 20 43 88
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>
