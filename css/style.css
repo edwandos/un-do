@@ -53,12 +53,12 @@ p, li{
 
 #rodebiet2{
   margin-top: -270px;
-    left: -120px;
+    left: -60px;
 }
 
 #rodebiet2 svg{
-  height:800px;
-  transform:rotate(25deg);
+  height: 700px;
+    transform: rotate(25deg);
 }
 
 #rodebiet2 svg path{
@@ -66,13 +66,13 @@ p, li{
 }
 
 #look{
-  margin-top:-100px;
-  left:-70px;
+  margin-top: -100px;
+  left: -80px;
 }
 
 #look svg{
-  height:600px;
-  transform:rotate(-15deg);
+  height: 500px;
+    transform: rotate(15deg);
 }
 
 #look svg path{
@@ -109,13 +109,13 @@ p, li{
 
 
 #wortel{
-  margin-top:-280px;
-  left:-80px;
+  margin-top: 20px;
+      left: -80px;
 }
 
 #wortel svg{
-  height:700px;
-  transform:rotate(-25deg);
+  height:600px;
+  transform:rotate(25deg);
 }
 
 #wortel svg path{
