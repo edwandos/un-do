@@ -224,3 +224,14 @@ p, li{
     display:none;
   }
 }
+
+.img.afhaalmaaltijden{
+  overflow: hidden;
+}
+
+.img.afhaalmaaltijden img {
+    width: 80%;
+    margin-top: -41%;
+    margin-bottom: -50%;
+    margin-left: 20%;
+}
